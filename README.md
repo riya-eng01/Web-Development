@@ -15,20 +15,23 @@ My goal is to strengthen my development skills by consistently building projects
 ### Frontend
 - HTML5
 - CSS3
+- Bootstrap
+- Tailwind CSS
 - JavaScript (ES6+)
 - React.js
 
 ### Backend
 - Node.js
 - Express.js
+- Next Js
 
 ### Database
+- MySQL
 - MongoDB
 
 ### Tools & Technologies
 - Git & GitHub
 - VS Code
-- Postman
 - npm
 
 ## 📚 Currently Learning
