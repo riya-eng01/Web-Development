@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Elements</title>
+</head>
+<body>
+    <form action="/server">
+        <!-- Checkboxes -->
+        <label for="age">I am 18+  </label>
+        <input type="checkbox" id="age" name="age">
+        <hr>
+
+        <!-- Radio buttons -->
+        <label for="male">Male </label>
+        <input type="radio" name="gender" id="male" value="male">
+
+        <label for="female">Female </label>
+        <input type="radio" name="gender" id="female" value="female">
+
+        <label for="other">Other </label>
+        <input type="radio" name="gender" id="other" value="other">
+
+        <hr>
+        <!-- Multiple options can be selected after grouping -->
+        Choose your subjects: 
+        <label for="math">Maths</label>
+        <input type="checkbox" name="sub" id="math" value="math">
+
+        <label for="sci">Science</label>
+        <input type="checkbox" name="sub" id="sci" value="sci">
+
+        <label for="eng">English</label>
+        <input type="checkbox" name="sub" id="eng" value="eng">
+
+        <button>Submit</button>
+    </form>
+</body>
+</html>
