@@ -19,3 +19,13 @@ h1, h3  {
     background-color: green;
     color: aliceblue;
 }
+
+/* descendant selector */
+.post a {
+    color: purple;
+    background-color: yellow;
+}
+
+nav ul li a{
+    color: hotpink;
+}
